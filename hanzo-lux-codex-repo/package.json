@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-lux-codex-repo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Starter Codex repo for Hanzo + Lux skills and MCP wiring",
+  "type": "module",
+  "scripts": {
+    "start:hanzo": "node ./mcp/hanzo-mcp.js",
+    "start:lux": "node ./mcp/lux-mcp.js"
+  }
+}

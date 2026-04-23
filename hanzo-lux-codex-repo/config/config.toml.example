@@ -1,0 +1,7 @@
+[mcp_servers.hanzo]
+command = "node"
+args = ["/ABSOLUTE/PATH/TO/hanzo-lux-codex-repo/mcp/hanzo-mcp.js"]
+
+[mcp_servers.lux]
+command = "node"
+args = ["/ABSOLUTE/PATH/TO/hanzo-lux-codex-repo/mcp/lux-mcp.js"]
